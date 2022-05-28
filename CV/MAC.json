@@ -256,15 +256,6 @@
     ],
     "studies": [
       {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": " EXIN Information Security Foundation based on ISO/IEC 27001",
-        "startDate": "2018-03-01",
-        "institution": {
-          "name": "EXIN"
-        }
-      },
-      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Master's Degree in Artificial Intelligence",
@@ -308,6 +299,16 @@
         "finishDate": "2022-06-01",
         "institution": {
           "name": "CAPMAN"
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": " EXIN Information Security Foundation based on ISO/IEC 27001",
+        "startDate": "2018-03-01",
+        "finishDate": "2018-03-01",
+        "institution": {
+          "name": "EXIN"
         }
       },
       {
