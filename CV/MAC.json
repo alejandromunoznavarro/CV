@@ -1,0 +1,401 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Alejandro",
+      "surnames": "Muñoz Navarro",
+      "title": "Master's in Artificial Intelligence &  Bachelor's Degree in Computer Engineering",
+      "description": "I always wanted to be part of something, something that will change the world to be better. I want to learn something new every day and feel part of a team with the same interests like me.",
+      "avatar": {
+        "alt": "logo git.png",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/28/fd37e89d-07ff-45c5-9fc5-0f7d87cf1678_logo-git.png"
+      },
+      "location": {
+        "notes": "Madrid, Spain"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/alejandromunoznavarro"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/alexmunav/"
+      },
+      {
+        "type": "other",
+        "URL": "https://www.munoznavarro.com"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "My favourite topics to talk about",
+        "fact": "Photography, AI, Social Media, New tech, Star Trek (Next Generation, Voyager or Picard are my favourites)."
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Indra Sistemas S.A."
+        },
+        "roles": [
+          {
+            "name": "Junior Engineer",
+            "startDate": "2022-03-01",
+            "challenges": [
+              {
+                "description": "Software developer for the Air Traffic Management (ATM) department."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Maven",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "IECISA"
+        },
+        "roles": [
+          {
+            "name": "Java Junior Developer",
+            "startDate": "2019-01-01",
+            "finishDate": "2019-06-01",
+            "challenges": [
+              {
+                "description": "Software Developer for the SAP & POS department."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Maven",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "IECISA"
+        },
+        "roles": [
+          {
+            "name": "ABAP Junior Developer",
+            "startDate": "2018-09-01",
+            "finishDate": "2018-12-01",
+            "challenges": [
+              {
+                "description": "Software Developer for the SAP & POS department."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Abap",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "E2R Converter",
+          "description": "Master's Degree Final Project for the translation of Spanish complex text that contains percentages to be easy to read. This project was developed using Natural Language Processing techniques such as libraries like NLT and Spacy with a Web interface using HTML5, CSS3 and an API in Django.",
+          "URL": "https://github.com/alejandromunoznavarro/E2R-Converter"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2021-01-01",
+            "finishDate": "2022-05-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Django",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Style Transfer between Photographs",
+          "description": "Bachelor's Degree Final Project for the Style transfer between photographs using Matlab.\n\nAt first, the application was designed for the transfer of styles between landscape photographs, in which the luminosity of the model image was simply transferred to the input image. However, the transfer to the color was extended according to sepia, color or black and white.\n\nLater on the development of the project, it was also extended to the transfer of styles between portraits, which transferred not only the style from one person to another but also the background of the model image.",
+          "URL": "https://github.com/alejandromunoznavarro/TFG"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2018-09-01",
+            "finishDate": "2019-01-01",
+            "competences": [
+              {
+                "name": "Matlab",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Pandas",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Numpy",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Matlab",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TensorFlow",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": " EXIN Information Security Foundation based on ISO/IEC 27001",
+        "startDate": "2018-03-01",
+        "institution": {
+          "name": "EXIN"
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Master's Degree in Artificial Intelligence",
+        "startDate": "2020-09-01",
+        "finishDate": "2022-07-01",
+        "institution": {
+          "name": "Universidad Politécnica de Madrid"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Jupyter",
+            "type": "technology"
+          },
+          {
+            "name": "Numpy",
+            "type": "technology"
+          },
+          {
+            "name": "Pandas",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          },
+          {
+            "name": "Scikit-learn",
+            "type": "technology"
+          },
+          {
+            "name": "TensorFlow",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "English Language Level B2 Test TOEIC Listening and Reading",
+        "startDate": "2020-06-01",
+        "finishDate": "2022-06-01",
+        "institution": {
+          "name": "CAPMAN"
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Bachelor's Degree in Computer Engineering",
+        "startDate": "2015-09-01",
+        "finishDate": "2020-06-01",
+        "institution": {
+          "name": "Universidad Politécnica de Madrid"
+        },
+        "linkedCompetences": [
+          {
+            "name": "C",
+            "type": "technology"
+          },
+          {
+            "name": "Git",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "Matlab",
+            "type": "technology"
+          },
+          {
+            "name": "Maven",
+            "type": "technology"
+          },
+          {
+            "name": "MySQL",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/alexmunav/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Django",
+          "type": "technology"
+        },
+        {
+          "name": "Kafka",
+          "type": "technology"
+        },
+        {
+          "name": "Kubernetes",
+          "type": "technology"
+        },
+        {
+          "name": "Numpy",
+          "type": "technology"
+        },
+        {
+          "name": "Pandas",
+          "type": "technology"
+        },
+        {
+          "name": "PyTorch",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "TensorFlow",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
